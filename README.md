@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav Sharma and I'm a Computer Science Student, from Delhi</h2>
+<h2 align="left">Hi 👋! My name is Gaurav Sharma and I'm a Computer Science Student, from Delhi,India</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/zkNBtlymM6zX4DndrU"  />
 
 ###
 
